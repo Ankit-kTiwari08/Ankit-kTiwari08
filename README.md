@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Ankit-kTiwari08
-- 👀 I’m interested in Programming and WebDev
+- 👋 Hi, I’m Ankit Kumar Tiwari
+- 👀 I’m interested in Programming and WebDevelopment.
 - 🌱 I’m currently learning Java and Backend.
 - 💞️ I’m looking to collaborate on any project as a responsible team member.
 - 📫 Reach me via linkedIn https://www.linkedin.com/in/ankit-kumar-tiwari08/
